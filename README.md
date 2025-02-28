@@ -1,22 +1,20 @@
 # Portfólio - Currículo Vitae Online
 
-Este projeto consiste em um currículo vitae online desenvolvido utilizando **HTML5** e **CSS3**. O objetivo é apresentar de forma clara e organizada as informações profissionais, habilidades, experiências e formação acadêmica de uma pessoa, de maneira responsiva e acessível. Para a construção do layout, foram utilizados **conceitos de Flexbox**, garantindo um design moderno e alinhamentos precisos.
+Este projeto consiste em um currículo vitae online desenvolvido utilizando **<u>HTML5</u>** e **<u>CSS3</u>**. O objetivo é apresentar de forma clara, resumida e organizada minhas informações profissionais, habilidades, experiências e formação acadêmica. Para a construção do layout, foram utilizados **conceitos de <u>Flexbox</u>**, garantindo um design moderno e alinhamentos precisos.
 
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estruturação do conteúdo da página.
 - **CSS3**: Estilização.
-- **Flexbox**: Utilizado para criar layouts flexíveis e alinhar elementos de forma eficiente.
 
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
 
 curriculo-online/  
-│  
-├── index.html          # Arquivo principal HTML  
-├── style.css           # Arquivo de estilização CSS  
-└── README.md           # Este arquivo  
+├── index.html  
+├── style.css  
+└── README.md  
 
 ## Como Utilizar
 
@@ -26,9 +24,9 @@ curriculo-online/
 
 ## Melhorias Futuras
 
-### Implementar o design responsivo:
-Adicionar as media queries para garantir uma experiência ainda mais fluida em dispositivos com telas muito pequenas ou muito grandes.
-### Adicionar interatividade:
+#### [ ] Implementar design responsivo:
+Adicionar as media queries para garantir uma experiência ainda fluida em dispositivos com diferentes formatos de telas.
+#### [ ] Adicionar interatividade:
 Incluir efeitos de hover e transições suaves para melhorar a experiência do usuário.
-### Integração com JavaScript:
-Adicionar funcionalidades dinâmicas, como um modo escuro/claro ou a capacidade de filtrar experiências profissionais por categoria.
+#### [ ] Integração com JavaScript:
+Adicionar funcionalidades dinâmicas, como um modo escuro/claro.
