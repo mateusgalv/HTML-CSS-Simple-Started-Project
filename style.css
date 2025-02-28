@@ -14,14 +14,14 @@ body {
     margin: 0 auto;
 }
 
-main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 ul {
     list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    padding: 10px 15px;
 }
 
 .container {
@@ -47,6 +47,48 @@ ul {
 
 .italic {
     font-style: italic;
+}
+
+.item-title {
+    padding: 0 10px;
+    background-color: red;
+    border-radius: 5px;
+    font-size: large;
+}
+
+.list-style {
+    list-style-type: disc;
+    color: red;
+    padding: 5px;
+}
+
+.list-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-text {
+    color: black;
+    font-size: large;
+}
+
+.text {
+    margin: 0 10px;
+    font-size: medium;
+}
+
+.small-text {
+    font-size: small;
+}
+
+.title {
+    margin: 0 10px;
+    font-size: large;
+}
+
+.justify-right {
+    text-align: right;
+    margin-right: 15px;
 }
 
 @media (max-width: 576px) {
