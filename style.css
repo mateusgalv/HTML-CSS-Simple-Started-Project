@@ -1,19 +1,43 @@
+/* 
+Palette
+https://colorhunt.co/palette/2c39303f4f44a27b5cdcd7c9
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-size: 20px;
     max-width: 1200px;
     margin: 0 auto;
 }
 
+.container {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #2C3930;
+}
+
+.padding {
+    height: 5px;
+    width: 0;
+}
+
+.big-padding {
+    height: 15px;
+}
+
 .header {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
-.title {
-    font-family: Helvetica, sans-serif;
+.italic {
     font-style: italic;
 }
-
 
 @media (max-width: 576px) {
     /* Estilização para telas de até 576px */
