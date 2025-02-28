@@ -12,12 +12,11 @@ Este projeto consiste em um currículo vitae online desenvolvido utilizando **HT
 
 O projeto está organizado da seguinte forma:
 
-curriculo-online/
-│
-├── index.html          # Arquivo principal HTML
-├── style.css           # Arquivo de estilização CSS
-└── README.md           # Este arquivo
-
+curriculo-online/  
+│  
+├── index.html          # Arquivo principal HTML  
+├── style.css           # Arquivo de estilização CSS  
+└── README.md           # Este arquivo  
 
 ## Como Utilizar
 
